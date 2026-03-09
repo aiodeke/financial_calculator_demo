@@ -1,0 +1,11 @@
+Two ways of getting Gti responsitory:
+1. You can create your own Local responsitory
+2. Create Remote responsitory or clone existing one
+
+Three key areas of git project:
+1. Current working directory
+2. Staging area
+3. Final commit
+
+3. One of the benefit of GitHub is:
+ team collaboration to share work.
