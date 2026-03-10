@@ -2,17 +2,10 @@
 an investment calculator and a home loan repayment calculator
 
 ## Table of Contents
-1. [About the Project](#about-the-project)
-2. [Getting Started](#getting-started)
-   - [Prerequisites](#prerequisites)
-   - [Installation](#installation)
-3. [Usage](#usage)
-4. [License](#license)
-
-## About the Project
-Project details go here...
-
-## Getting Started
-### Prerequisites
-Required software...
+1. [About the Calculator] (#about financial calculator)
+2. [Getting Started]      (#getting-started) 
+    - [Prerequisites]     (#prerequisites)
+	- [Installation]      (#installation)
+3. [Usuage]               (#usage)
+4. [License]              (#licence)
 
