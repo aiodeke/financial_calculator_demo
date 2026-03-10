@@ -1,3 +1,10 @@
+## About the Project
+Project details go here...
+
+## Getting Started
+### Prerequisites
+Required software...
+
 ## Table of Contents
 1. [About the Calculator] (#about financial calculator)
 2. [Getting Started]      (#getting-started) 
@@ -15,7 +22,6 @@
  Copy the project URL and restore ito n your local machine.
    
  ### Prerequisites  
- [Download] https://code.visualstudio.com/ vscode software
+ Download https://code.visualstudio.com/ vscode software
  ### License
   General purpose licence
-
