@@ -7,7 +7,7 @@ The main contributor for this project is myself as i have indicated is for learn
 
 The following files is what i have pushed so far from my local development to remote server github.
 
-* ne_file.txt 
+* new_file.txt 
 * Spot check 1.txt
 * test.txt
 * test2.txt
