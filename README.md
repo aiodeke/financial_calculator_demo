@@ -1,10 +1,3 @@
-## About the Project
-Project details go here...
-
-## Getting Started
-### Prerequisites
-Required software...
-
 ## Table of Contents
 1. [About the Calculator] (#about financial calculator)
 2. [Getting Started]      (#getting-started) 
