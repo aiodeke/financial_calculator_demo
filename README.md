@@ -12,9 +12,9 @@
  You can choose Bond or Investment type to proceeed.
  
  ## Getting Started
-	  * bullet 1
-	  * bullet 2
-	  * bullet 3
+* bullet 1
+* bullet 2
+* bullet 3
    
  ### Prerequisites  
  Download https://code.visualstudio.com/ vscode software
