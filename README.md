@@ -14,8 +14,8 @@
  ## Getting Started
 * bullet 1
 * bullet 2
-   * sublist1*
-   * sublist2*
+  * sublist1
+  * sublist2
 * bullet 3
    
  ### Prerequisites  
