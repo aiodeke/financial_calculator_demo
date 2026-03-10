@@ -12,4 +12,4 @@ The following files is what i have pushed so far from my local development to re
 * test.txt
 * test2.txt, [see more] https://www.google.com/
 
-  * My family has supported me to do this project* 
+  * My family has supported me to do this project
