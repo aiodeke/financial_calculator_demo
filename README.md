@@ -8,7 +8,7 @@
 * Do installation
 
   
-        print(Hello world!)
+        print(sorted_list_1)
    
  ### Prerequisites  
  Download https://code.visualstudio.com/ vscode software
