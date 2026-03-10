@@ -12,7 +12,7 @@
  You can choose Bond or Investment type to proceeed.
  
  ## Getting Started
- Copy the project URL and restore ito n your local machine.
+ Copy the project URL on github and restore it to your local machine.
    
  ### Prerequisites  
  Download https://code.visualstudio.com/ vscode software
