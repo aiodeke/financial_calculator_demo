@@ -8,7 +8,7 @@
 * Do installation
 
   
-       * print(Hello world!)
+        print(Hello world!)
    
  ### Prerequisites  
  Download https://code.visualstudio.com/ vscode software
