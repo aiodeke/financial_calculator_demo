@@ -4,7 +4,7 @@
  You can choose Bond or Investment type to proceeed.
  
  ## Getting Started
-* Download prerequisites software
+* Download prerequisites software below
 * Do installation
    
  ### Prerequisites  
