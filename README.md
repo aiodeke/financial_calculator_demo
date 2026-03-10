@@ -1,15 +1,18 @@
 # financial_calculator_demo
 an investment calculator and a home loan repayment calculator
 
-The purpose of this project is for learning github remote server syncronization with my local machine current directory. This is allow me to push my changes to remote server github.
+## Table of Contents
+1. [About the Project](#about-the-project)
+2. [Getting Started](#getting-started)
+   - [Prerequisites](#prerequisites)
+   - [Installation](#installation)
+3. [Usage](#usage)
+4. [License](#license)
 
-The main contributor for this project is myself as i have indicated is for learning.
+## About the Project
+Project details go here...
 
-The following files is what i have pushed so far from my local development to remote server github.
+## Getting Started
+### Prerequisites
+Required software...
 
-* new_file.txt 
-* Spot check 1.txt
-* test.txt
-* test2.txt, [see more] https://www.google.com/
-
-* * * My family has supported me to do this project
