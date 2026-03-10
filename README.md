@@ -4,11 +4,8 @@
  You can choose Bond or Investment type to proceeed.
  
  ## Getting Started
-	* bullet 1
-	* bullet 2
-	   * sublist1
-	   * sublist2
-	* bullet 3
+    * Download prerequisites software
+	* Do installation
    
  ### Prerequisites  
  Download https://code.visualstudio.com/ vscode software
